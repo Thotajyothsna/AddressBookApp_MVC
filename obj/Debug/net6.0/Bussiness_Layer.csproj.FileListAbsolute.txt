@@ -1,0 +1,17 @@
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\bin\Debug\net6.0\Bussiness_Layer.deps.json
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\bin\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\bin\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\bin\Debug\net6.0\Model_Layer.dll
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\bin\Debug\net6.0\Repository_Layer.dll
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\bin\Debug\net6.0\Model_Layer.pdb
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\bin\Debug\net6.0\Repository_Layer.pdb
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\obj\Debug\net6.0\Bussiness_Layer.csproj.AssemblyReference.cache
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\obj\Debug\net6.0\Bussiness_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfoInputs.cache
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\obj\Debug\net6.0\Bussiness_Layer.AssemblyInfo.cs
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\obj\Debug\net6.0\Bussiness_Layer.csproj.CoreCompileInputs.cache
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\obj\Debug\net6.0\Bussines.45A51E0C.Up2Date
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\obj\Debug\net6.0\Bussiness_Layer.dll
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\obj\Debug\net6.0\refint\Bussiness_Layer.dll
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\obj\Debug\net6.0\Bussiness_Layer.pdb
+C:\Users\oooyeeeee\source\repos\BussinessLayer1\obj\Debug\net6.0\ref\Bussiness_Layer.dll
