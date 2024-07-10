@@ -1,0 +1,15 @@
+C:\Users\oooyeeeee\source\repos\Repository_Layer\bin\Debug\net6.0\Repository_Layer.deps.json
+C:\Users\oooyeeeee\source\repos\Repository_Layer\bin\Debug\net6.0\Repository_Layer.dll
+C:\Users\oooyeeeee\source\repos\Repository_Layer\bin\Debug\net6.0\Repository_Layer.pdb
+C:\Users\oooyeeeee\source\repos\Repository_Layer\bin\Debug\net6.0\Model_Layer.dll
+C:\Users\oooyeeeee\source\repos\Repository_Layer\bin\Debug\net6.0\Model_Layer.pdb
+C:\Users\oooyeeeee\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.csproj.AssemblyReference.cache
+C:\Users\oooyeeeee\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oooyeeeee\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.AssemblyInfoInputs.cache
+C:\Users\oooyeeeee\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.AssemblyInfo.cs
+C:\Users\oooyeeeee\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.csproj.CoreCompileInputs.cache
+C:\Users\oooyeeeee\source\repos\Repository_Layer\obj\Debug\net6.0\Reposito.C9099ADE.Up2Date
+C:\Users\oooyeeeee\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.dll
+C:\Users\oooyeeeee\source\repos\Repository_Layer\obj\Debug\net6.0\refint\Repository_Layer.dll
+C:\Users\oooyeeeee\source\repos\Repository_Layer\obj\Debug\net6.0\Repository_Layer.pdb
+C:\Users\oooyeeeee\source\repos\Repository_Layer\obj\Debug\net6.0\ref\Repository_Layer.dll
