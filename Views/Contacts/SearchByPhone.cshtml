@@ -1,0 +1,30 @@
+﻿@model Model_Layer.ContactsModel
+
+@{
+    ViewData["Title"] = "Get By Phone";
+}
+
+<h2>Get By Phone</h2>
+
+
+<div class="row d-flex justify-content-center">
+    <form asp-controller="Contacts" asp-action="SearchByPhone" method="post">
+        <div class="form-group m-3">
+            <div class="d-flex flex-row">
+                <label asp-for="PhoneNumber" class="control-label" style="margin-right:35px;margin-left:-10px"></label>
+                <input asp-for="PhoneNumber" class="form-control ml-5" style="margin-left:30px; margin-right:5px;" placeholder="Enter Phone" />
+            </div>
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+        </div>
+
+
+        <div class="form-group m-3" style="text-align:end">
+            <input type="submit" value="SearchByPhonepattern" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

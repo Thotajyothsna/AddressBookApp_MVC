@@ -1,0 +1,30 @@
+﻿@model Model_Layer.ContactsModel
+
+@{
+    ViewData["Title"] = "Get By Name";
+}
+
+<h2>Get By Name</h2>
+
+
+<div class="row d-flex justify-content-center">
+    <form asp-controller="Contacts" asp-action="SearchByAnyName" method="post">
+        <div class="form-group m-3">
+            <div class="d-flex flex-row">
+                <label asp-for="FirstName" class="control-label" style="margin-right:35px;margin-left:-10px"></label>
+                <input asp-for="FirstName" class="form-control ml-5" style="margin-left:30px; margin-right:5px;" placeholder="Enter Any FirstName or LastName" />
+            </div>
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+
+
+        <div class="form-group m-3" style="text-align:end">
+            <input type="submit" value="SearchByAnyName" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,30 @@
+﻿
+.row{border:1px solid black;
+     align-items:center;
+     justify-content:center;
+     background-color:steelblue;
+     color:black;
+}
+
+﻿/*.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 20px;
+}*/
+
+td {
+    border: 1px solid blue;
+    border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+    background-color: powderblue;
+}
+
+thead {
+    color: white;
+    Background-color: cornflowerblue;
+}

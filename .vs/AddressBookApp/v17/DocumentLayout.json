@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|c:\\users\\oooyeeeee\\source\\repos\\addressbookapp\\views\\contacts\\searchbyphone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:views\\contacts\\searchbyphone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\views\\contacts\\searchbycity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:views\\contacts\\searchbycity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450B3BE7-EB66-4A64-95E8-FAF2C7084288}|..\\Repository_Layer\\Repository_Layer.csproj|c:\\users\\oooyeeeee\\source\\repos\\repository_layer\\interfaces\\icontactsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A409D7E7-F6A9-460D-B550-09423ADC30D8}|..\\BussinessLayer1\\Bussiness_Layer.csproj|c:\\users\\oooyeeeee\\source\\repos\\bussinesslayer1\\interfaces\\icontactsbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A409D7E7-F6A9-460D-B550-09423ADC30D8}|..\\BussinessLayer1\\Bussiness_Layer.csproj|c:\\users\\oooyeeeee\\source\\repos\\bussinesslayer1\\services\\contactsbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450B3BE7-EB66-4A64-95E8-FAF2C7084288}|..\\Repository_Layer\\Repository_Layer.csproj|c:\\users\\oooyeeeee\\source\\repos\\repository_layer\\services\\contactsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|c:\\users\\oooyeeeee\\source\\repos\\addressbookapp\\views\\contacts\\getallcontactsinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:views\\contacts\\getallcontactsinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839730B9-FD03-4978-A936-F4B69B2A925B}|..\\Model_Layer\\Model_Layer.csproj|c:\\users\\oooyeeeee\\source\\repos\\model_layer\\typedescriptionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839730B9-FD03-4978-A936-F4B69B2A925B}|..\\Model_Layer\\Model_Layer.csproj|c:\\users\\oooyeeeee\\source\\repos\\model_layer\\countrymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\views\\contacts\\getcontactsjoin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:views\\contacts\\getcontactsjoin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|c:\\users\\oooyeeeee\\source\\repos\\addressbookapp\\views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:views\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\views\\contacts\\insertorupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:views\\contacts\\insertorupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839730B9-FD03-4978-A936-F4B69B2A925B}|..\\Model_Layer\\Model_Layer.csproj|c:\\users\\oooyeeeee\\source\\repos\\model_layer\\searchbyanynamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\views\\contacts\\searchbyanyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:views\\contacts\\searchbyanyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\views\\contacts\\searchbytype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:views\\contacts\\searchbytype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839730B9-FD03-4978-A936-F4B69B2A925B}|..\\Model_Layer\\Model_Layer.csproj|c:\\users\\oooyeeeee\\source\\repos\\model_layer\\searchbynamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\wwwroot\\css\\styling.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:wwwroot\\css\\styling.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\addressbookapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{07FEF3BA-054E-4C59-AE3E-FB5498858058}|AddressBookApp.csproj|solutionrelative:addressbookapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A409D7E7-F6A9-460D-B550-09423ADC30D8}|..\\BussinessLayer1\\Bussiness_Layer.csproj|c:\\users\\oooyeeeee\\source\\repos\\bussinesslayer1\\bussiness_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{450B3BE7-EB66-4A64-95E8-FAF2C7084288}|..\\Repository_Layer\\Repository_Layer.csproj|c:\\users\\oooyeeeee\\source\\repos\\repository_layer\\repository_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchByPhone.cshtml",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\SearchByPhone.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\SearchByPhone.cshtml",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\SearchByPhone.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\SearchByPhone.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T06:16:40.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllContactsInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\GetAllContactsInfo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\GetAllContactsInfo.cshtml",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\GetAllContactsInfo.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\GetAllContactsInfo.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T05:44:57.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TypeDescriptionModel.cs",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\Model_Layer\\TypeDescriptionModel.cs",
+              "RelativeDocumentMoniker": "..\\Model_Layer\\TypeDescriptionModel.cs",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\Model_Layer\\TypeDescriptionModel.cs",
+              "RelativeToolTip": "..\\Model_Layer\\TypeDescriptionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T05:25:27.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InsertOrUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\InsertOrUpdate.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\InsertOrUpdate.cshtml",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\InsertOrUpdate.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\InsertOrUpdate.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T06:31:25.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetContactsJoin.cshtml",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\GetContactsJoin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\GetContactsJoin.cshtml",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\GetContactsJoin.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\GetContactsJoin.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T05:37:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CountryModel.cs",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\Model_Layer\\CountryModel.cs",
+              "RelativeDocumentMoniker": "..\\Model_Layer\\CountryModel.cs",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\Model_Layer\\CountryModel.cs",
+              "RelativeToolTip": "..\\Model_Layer\\CountryModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:20:23.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SearchByAnyName.cshtml",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\SearchByAnyName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\SearchByAnyName.cshtml",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\SearchByAnyName.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\SearchByAnyName.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T04:29:31.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchByAnyNameModel.cs",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\Model_Layer\\SearchByAnyNameModel.cs",
+              "RelativeDocumentMoniker": "..\\Model_Layer\\SearchByAnyNameModel.cs",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\Model_Layer\\SearchByAnyNameModel.cs",
+              "RelativeToolTip": "..\\Model_Layer\\SearchByAnyNameModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T04:22:35.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Styling.css",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\wwwroot\\css\\Styling.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Styling.css",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\wwwroot\\css\\Styling.css",
+              "RelativeToolTip": "wwwroot\\css\\Styling.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T04:12:41.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchByType.cshtml",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\SearchByType.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\SearchByType.cshtml",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\SearchByType.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\SearchByType.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T03:05:47.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchByCity.cshtml",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\SearchByCity.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\SearchByCity.cshtml",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\SearchByCity.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\SearchByCity.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T03:00:13.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Controllers\\ContactsController.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAQwL8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:17:38.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T09:48:25.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\Repository_Layer\\Services\\ContactsRepo.cs",
+              "RelativeDocumentMoniker": "..\\Repository_Layer\\Services\\ContactsRepo.cs",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\Repository_Layer\\Services\\ContactsRepo.cs",
+              "RelativeToolTip": "..\\Repository_Layer\\Services\\ContactsRepo.cs",
+              "ViewState": "AQIAAKABAAAAAAAAAAAAAKMBAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:33:01.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactsBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\BussinessLayer1\\Services\\ContactsBussiness.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer1\\Services\\ContactsBussiness.cs",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\BussinessLayer1\\Services\\ContactsBussiness.cs",
+              "RelativeToolTip": "..\\BussinessLayer1\\Services\\ContactsBussiness.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAewEQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:28:05.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContactsBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\BussinessLayer1\\Interfaces\\IContactsBussiness.cs",
+              "RelativeDocumentMoniker": "..\\BussinessLayer1\\Interfaces\\IContactsBussiness.cs",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\BussinessLayer1\\Interfaces\\IContactsBussiness.cs",
+              "RelativeToolTip": "..\\BussinessLayer1\\Interfaces\\IContactsBussiness.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:29:11.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContactsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\Repository_Layer\\Interfaces\\IContactsRepo.cs",
+              "RelativeDocumentMoniker": "..\\Repository_Layer\\Interfaces\\IContactsRepo.cs",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\Repository_Layer\\Interfaces\\IContactsRepo.cs",
+              "RelativeToolTip": "..\\Repository_Layer\\Interfaces\\IContactsRepo.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wBcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T12:34:13.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SearchByNameModel.cs",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\Model_Layer\\SearchByNameModel.cs",
+              "RelativeDocumentMoniker": "..\\Model_Layer\\SearchByNameModel.cs",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\Model_Layer\\SearchByNameModel.cs",
+              "RelativeToolTip": "..\\Model_Layer\\SearchByNameModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:21:07.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T09:25:13.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddressBookApp.csproj",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\AddressBookApp.csproj",
+              "RelativeDocumentMoniker": "AddressBookApp.csproj",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\AddressBookApp\\AddressBookApp.csproj",
+              "RelativeToolTip": "AddressBookApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T09:23:57.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Bussiness_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\BussinessLayer1\\Bussiness_Layer.csproj",
+              "RelativeDocumentMoniker": "..\\BussinessLayer1\\Bussiness_Layer.csproj",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\BussinessLayer1\\Bussiness_Layer.csproj",
+              "RelativeToolTip": "..\\BussinessLayer1\\Bussiness_Layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T12:25:47.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Repository_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\oooyeeeee\\source\\repos\\Repository_Layer\\Repository_Layer.csproj",
+              "RelativeDocumentMoniker": "..\\Repository_Layer\\Repository_Layer.csproj",
+              "ToolTip": "C:\\Users\\oooyeeeee\\source\\repos\\Repository_Layer\\Repository_Layer.csproj",
+              "RelativeToolTip": "..\\Repository_Layer\\Repository_Layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T12:25:10.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
