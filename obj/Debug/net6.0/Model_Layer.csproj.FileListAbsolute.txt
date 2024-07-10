@@ -1,0 +1,11 @@
+C:\Users\oooyeeeee\source\repos\Model_Layer\bin\Debug\net6.0\Model_Layer.deps.json
+C:\Users\oooyeeeee\source\repos\Model_Layer\bin\Debug\net6.0\Model_Layer.dll
+C:\Users\oooyeeeee\source\repos\Model_Layer\bin\Debug\net6.0\Model_Layer.pdb
+C:\Users\oooyeeeee\source\repos\Model_Layer\obj\Debug\net6.0\Model_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oooyeeeee\source\repos\Model_Layer\obj\Debug\net6.0\Model_Layer.AssemblyInfoInputs.cache
+C:\Users\oooyeeeee\source\repos\Model_Layer\obj\Debug\net6.0\Model_Layer.AssemblyInfo.cs
+C:\Users\oooyeeeee\source\repos\Model_Layer\obj\Debug\net6.0\Model_Layer.csproj.CoreCompileInputs.cache
+C:\Users\oooyeeeee\source\repos\Model_Layer\obj\Debug\net6.0\Model_Layer.dll
+C:\Users\oooyeeeee\source\repos\Model_Layer\obj\Debug\net6.0\refint\Model_Layer.dll
+C:\Users\oooyeeeee\source\repos\Model_Layer\obj\Debug\net6.0\Model_Layer.pdb
+C:\Users\oooyeeeee\source\repos\Model_Layer\obj\Debug\net6.0\ref\Model_Layer.dll
