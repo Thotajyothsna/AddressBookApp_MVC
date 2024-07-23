@@ -1,0 +1,5 @@
+CREATE PROC GetContacts
+AS
+BEGIN
+	SELECT * FROM Contacts;
+END
